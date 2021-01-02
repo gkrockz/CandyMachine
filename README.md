@@ -1,6 +1,6 @@
 # CandyMachine 🍬🍬 
 
-### Working Of Candy Machine: 
+### WorkFlow Of Candy Machine: 
 
 <br>
 
