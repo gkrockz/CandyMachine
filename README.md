@@ -1,4 +1,4 @@
-# CandyMachine 🍬🍬 
+# CandyMachine 🍬🎫🍬 
 
 ### WorkFlow Of Candy Machine: 
 
