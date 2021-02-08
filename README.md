@@ -5,15 +5,20 @@
 <br>
 
 1. Required No.Of Candies Is Entered By The User  :
-
-![Input](Img/Input.jpg)
+<p align="center">
+  <img src="Img/Input.png">
+</p>  
 
 2. The Candy Machine Returns The Specfied No.Of Candies To The User :
 
-![Output](Img/Output1.jpg)
+<p align="center">
+  <img src="Img/Output-1.png">
+</p> 
 
 3. In Case, If The Stock Of Candies Gets Over, Then It Prompts A Message To The User : 
 
-![Output](Img/Output-2.3.jpg)
+<p align="center">
+  <img src="Img/Output-2.png">
+</p> 
 
 <br>
