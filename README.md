@@ -1,6 +1,6 @@
-# CandyMachine 🍬🎫🍬 
+<h1 align="center">CandyMachine 🍬🎫🍬</h1> 
 
-<p align="center"><b>WorkFlow Of Candy Machine:</p> 
+<h3>WorkFlow Of Candy Machine:⤵</h3> 
 
 <br>
 
