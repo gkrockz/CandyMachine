@@ -1,6 +1,6 @@
 <h1 align="center">CandyMachine 🍬🎫🍬</h1> 
 
-<h3>WorkFlow Of Candy Machine:⤵</h3> 
+<h3>WorkFlow Of Candy Machine : ⤵</h3> 
 
 <br>
 
