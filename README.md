@@ -15,10 +15,5 @@
   <img src="Img/Output-1.png">
 </p> 
 
-3. `In Case, If The Stock Of Candies Gets Over, Then It Prompts A Message To The User :` 
-
-<p align="center">
-  <img src="Img/Output-2.png">
-</p> 
-
+3. `In case, If the stock of candies gets over, Then it will prompt the user to visit again later` 
 <br>
