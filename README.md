@@ -1,4 +1,4 @@
-<h1 align="center">CandyMachine 🍬🎫🍬</h1> 
+<h1 align="center">Candy Machine 🍬</h1> 
 
 <h3>WorkFlow Of Candy Machine : ⤵</h3> 
 
