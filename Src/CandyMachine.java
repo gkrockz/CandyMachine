@@ -11,7 +11,7 @@ public class CandyMachine
 		{
 			String input = JOptionPane.showInputDialog(null , "Enter The Number Of Candies  🍬  You Need : ", null , JOptionPane.PLAIN_MESSAGE);
 			
-			int n = Integer.parseInt(input);        // Converting The User Input i.e (String To An Numeric Value)
+			int n = Integer.parseInt(input);    
 			if (n > tot) 
 			{	
 				JOptionPane.showMessageDialog(null,"Candy Issued 🍬 : " + (tot),null, JOptionPane.INFORMATION_MESSAGE);               // Candy UI.
