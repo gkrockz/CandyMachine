@@ -4,10 +4,10 @@ public class CandyMachine
 {
 	public static void main(String[] args) 
  {		
-		Vendor obj = new Vendor();       //  Creating An Instance Of Vendor Machine.
+		Vendor obj = new Vendor();       // Instance Of Vendor Machine.
 		int tot = obj.getTotal();
 		
-		while(obj.IsEmpty())            // Creating A Finite No.Of Attempts(For All Users) To Buy Candies, Until Candies Stock Gets Over.
+		while(obj.IsEmpty())    
 		{
 			String input = JOptionPane.showInputDialog(null , "Enter The Number Of Candies  🍬  You Need : ", null , JOptionPane.PLAIN_MESSAGE);
 			
